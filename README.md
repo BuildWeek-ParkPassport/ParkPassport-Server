@@ -1,6 +1,6 @@
 # Park Passport (Backend)
 
-If you'd rather just see the app and website in action, [click here](https://buildweek-parkpassport.github.io/ParkPassport-Landing-page/public/index.html). 
+If you'd rather just see the app and website in action, [click here](https://park-passport.webwallen.now.sh/). 
 
 Please note the links and schema below as you'll need that info to render and manipulate data within the Park Passport app.
 
