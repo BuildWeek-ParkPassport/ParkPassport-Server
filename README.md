@@ -1,7 +1,5 @@
 # Park Passport (Backend)
 
-If you'd rather just see the app and website in action, [click here](https://park-passport.webwallen.now.sh/). 
-
 ### [POST] Registration
 
 #### URL: https://park-passport.herokuapp.com/api/auth/register
